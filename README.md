@@ -1,5 +1,5 @@
 <h1 align="center">
-    rgthree-comfy
+    rgthree-comfy 26.2.17 fork 자료
     <br>
     <sub><sup><i>Making ComfyUI more comfortable!</i></sup></sub>
     <br>
@@ -432,3 +432,4 @@ rgthree-comfy adds several improvements, features, and optimizations to ComfyUI 
 If your workflows sometimes have missing connections, or even errors on load, start up ComfyUI and go to http://127.0.0.1:8188/rgthree/link_fixer which will allow you to drop in an image or workflow json file and check for and fix any bad links.
 
 You can also enable a link fixer check in the rgthree-comfy settings to give you an alert if you load a workflow with bad linking data to start.
+
